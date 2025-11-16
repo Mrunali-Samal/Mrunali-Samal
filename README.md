@@ -27,9 +27,7 @@ Skilled in **Java, Spring Boot, Microservices, REST APIs, Angular, TypeScript, R
 
 📫 You can reach me easily via email:  
 📩 **mrunali.samal1@gmail.com**
-
-📄 Know about my work experience:  
-👉 **https://www.linkedin.com/in/mrunali-samal-ab3920262/**  
+ 
 
 ⚡ Info:  
 🧠 I love working on meaningful fintech products that help people manage lending workflows smarter and faster.  
